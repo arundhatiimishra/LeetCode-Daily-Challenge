@@ -1,5 +1,5 @@
 // 131. Palindrome Partitioning
-// Problem Link - https://leetcode.com/problems/palindrome-partitioning/ 
+// Problem Link - https://leetcode.com/problems/palindrome-partitioning/    
 
 class Solution {
 public:
