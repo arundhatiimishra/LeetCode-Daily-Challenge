@@ -15,7 +15,7 @@ public:
     }
     
     bool isValid(vector<string> x){
-        for(int i=0;i<x.size();i++){
+        for(int i=0;i<x.size();i++){ 
             if(checkPalindrome(x[i])==false){
                 return false;
             }
