@@ -1,5 +1,5 @@
 // 1402. Reducing Dishes
-// Problem Link - https://leetcode.com/problems/reducing-dishes/
+// Problem Link - https://leetcode.com/problems/reducing-dishes/ 
 
 class Solution {
 public:
