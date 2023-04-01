@@ -3,7 +3,7 @@
 
 class Solution {
 public:
-    int findMaxSatisfaction(vector<int> &satisfaction,int idx,int num,vector<vector<int>> &dp){
+    int findMaxSatisfaction(vector<int> &satisfaction,int idx,int num,vector<vector<int>> &dp){  
         if(idx>satisfaction.size()-1){
             return 0;
         } 
